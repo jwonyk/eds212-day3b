@@ -19,4 +19,3 @@ ringtail + fox
 ringtail - fox
 100 * ringtail # scalar multiplication
 ringtail %*% fox # dot product
-
